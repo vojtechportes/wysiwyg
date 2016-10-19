@@ -26,9 +26,7 @@
   "dependencies": {
     "debounce-fn": "0.0.0",
     "dom-classes": "0.0.1",
-    "make-editable": {
-      "from": "git@github.com:vojtechportes/make-editable.git"
-    },
+    "make-editable": "git@github.com:vojtechportes/make-editable.git",
     "pubsub": "^1.0.2"
   }
 }
